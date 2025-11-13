@@ -3,9 +3,7 @@
 
 ---
 
-I'm a second-year Computer Science student at VIT Chennai, passionate about building intelligent systems. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**, and I'm always exploring research in fields like **Generative AI**.
-
-I'm keen to solve complex problems, collaborate on innovative projects, and contribute to new technologies.
+I'm a second-year Computer Science student at VIT Chennai, passionate about building intelligent systems. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
 
 ---
 
