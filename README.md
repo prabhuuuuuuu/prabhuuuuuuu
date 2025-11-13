@@ -24,7 +24,7 @@ I'm a second-year Computer Science student at VIT Chennai, passionate about buil
 ---
 
 ### 🌐 Connect With Me
-- X (Twitter): **(https://x.com/pra_bhuu)**  
+- X (Twitter): **https://x.com/pra_bhuu**  
 - LinkedIn: **https://www.linkedin.com/in/pranav-shewale/**
 - Instagram: **https://www.instagram.com/pranaaawv/**
 ---
