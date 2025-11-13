@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Prabhu (Pranav)👋</h1>
+<h3 align="center">Computer Vision & Edge AI Enthusiast</h3>
 
-<!--
-**prabhuuuuuuu/prabhuuuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a second-year Computer Science student passionate about **machine learning, deep learning, and AI research**.  
+I love solving real-world problems and exploring fields like **computer vision, generative AI, and edge intelligence**.  
+Currently, I’m working across research labs, hackathons, and industry projects — building, breaking, and learning every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+**AI & ML:** Deep Learning, Computer Vision, Generative AI  
+**Tools & Frameworks:** PyTorch, TensorFlow Lite, OpenCV, dlib, Scikit-learn  
+**Dev Skills:** Python, C/C++, Flask, Git/GitHub  
+**Other:** Research, project management, problem-solving
+
+---
+
+### 🌐 Connect With Me
+- GitHub: **github.com/prabhuuuuuuu**  
+- X (Twitter): **x.com/pra_bhuu**  
+- LinkedIn: **https://www.linkedin.com/in/pranav-shewale/**
+- Instagram: **https://www.instagram.com/pranaaawv/**
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my projects or reach out for collaborations.*
