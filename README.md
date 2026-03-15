@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Prabhu (Pranav)👋</h1>
 <h3 align="center">Computer Vision & Edge AI Enthusiast</h3>
-pranavprashantshewale.vercel.app
-
+🌐 **Portfolio:** [pranavprashantshewale.vercel.app](https://pranavprashantshewale.vercel.app)
 ---
 
 I'm a second-year Computer Science student at VIT Chennai, passionate about building intelligent systems. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
