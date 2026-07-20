@@ -18,13 +18,13 @@ I'm a second-year Computer Science student at VIT Chennai, passionate about buil
 
 ### 🛠️ Skills
 
-**AI & ML:** Deep Learning, Computer Vision, Generative AI
-**Tools & Frameworks:** PyTorch, TensorFlow Lite, OpenCV, dlib, Scikit-learn
-**Dev Skills:** Python, C/C++, Flask, Git/GitHub
-**Other:** Research, project management, problem-solving
+**Languages:** Python, C/C++, Java, SQL
+**ML/DL & Computer Vision:** PyTorch, TensorFlow, YOLOv8, ViT, DETR, Mask2Former, StrongSORT, OpenCV, ONNX, MobileNetV2, CNN, dlib
+**Robotics & Autonomy:** Reinforcement Learning (PPO), Multi-Agent Systems, Edge AI, Sensor Processing
+**Edge Deployment:** Raspberry Pi, MemryX, Docker, FastAPI, WebSockets, TensorFlow Lite
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,flask,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pytorch,tensorflow,opencv,onnx,docker,fastapi,flask,aws,git,github,raspberrypi,linux&theme=dark&perline=9" />
 </p>
 
 ---
