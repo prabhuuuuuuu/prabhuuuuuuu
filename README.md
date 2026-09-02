@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prabhu (Pranav) 👋</h1>
-<h3 align="center">Computer Vision & Edge AI Enthusiast</h3>
+<h3 align="center">Edge & Physical AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Second-Year+CS+Student+%40+VIT+Chennai;Building+Intelligent+Systems;AI+%7C+Machine+Learning+%7C+Computer+Vision" />
@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/pranaaawv/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-I'm a second-year Computer Science student at VIT Chennai, passionate about building intelligent systems. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
+I'm a second-year Computer Science student at VIT Chennai, passionate about building intelligent systems. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Physical AI**.
 
 ---
 
