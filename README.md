@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Prabhu (Pranav) 👋</h1>
-<h3 align="center">Edge & Physical AI Enthusiast</h3>
+<h1 align="center">Prabhu (Pranav)</h1>
+<h3 align="center">Edge Intelligence & Autonomous Systems</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Second-Year+CS+Student+%40+VIT+Chennai;Building+Intelligent+Systems;AI+%7C+Machine+Learning+%7C+Computer+Vision" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Initializing+Autonomous+Systems+@+VIT+Chennai;Bridging+Silicon,+Sensors,+and+Actuation;Physical+AI+|+Edge+Inference+|+Computer+Vision" />
 </p>
 
 <p align="center">
@@ -12,16 +12,16 @@
 <a href="https://www.instagram.com/pranaaawv/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-I'm a second-year Computer Science student at VIT Chennai, passionate about building intelligent systems. My focus is on **Artificial Intelligence**, **Machine Learning**, and **Physical AI**.
+Second-year Computer Science student at VIT Chennai. I build systems that perceive, decide, and act in the physical world. My work focuses on closing the loop between high-level machine learning models and low-level edge deployment.
 
 ---
 
-### 🛠️ Skills
+### System Capabilities
 
-**Languages:** Python, C/C++, Java, SQL
-**ML/DL & Computer Vision:** PyTorch, TensorFlow, YOLOv8, ViT, DETR, Mask2Former, StrongSORT, OpenCV, ONNX, MobileNetV2, CNN, dlib
-**Robotics & Autonomy:** Reinforcement Learning (PPO), Multi-Agent Systems, Edge AI, Sensor Processing
-**Edge Deployment:** Raspberry Pi, MemryX, Docker, FastAPI, WebSockets, TensorFlow Lite
+**Core Languages:** Python, C/C++, Java, SQL  
+**Perception & Vision:** PyTorch, TensorFlow, YOLOv8, ViT, DETR, Mask2Former, StrongSORT, OpenCV, ONNX, MobileNetV2, CNN, dlib  
+**Autonomy & Control:** Reinforcement Learning (PPO), Multi-Agent Systems, Edge AI, Sensor Processing  
+**Edge Deployment:** Raspberry Pi, MemryX, Docker, FastAPI, WebSockets, TensorFlow Lite  
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,pytorch,tensorflow,opencv,onnx,docker,fastapi,flask,aws,git,github,raspberrypi,linux&theme=dark&perline=9" />
@@ -29,16 +29,13 @@ I'm a second-year Computer Science student at VIT Chennai, passionate about buil
 
 ---
 
-### 🔍 Interests
+### Active Research & Development
 
-- Computer Vision
-- Generative AI
-- Deep Learning Architectures
-- Edge AI & Embedded ML
+Computer Vision, Generative AI, Deep Learning Architectures, Edge AI, Embedded ML
 
 ---
 
-### 📊 GitHub Stats
+### Telemetry & Metrics
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=prabhuuuuuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=6C63FF&icon_color=6C63FF" />
@@ -55,4 +52,4 @@ I'm a second-year Computer Science student at VIT Chennai, passionate about buil
 
 ---
 
-<p align="center">⭐ <i>Thanks for visiting! Feel free to explore my projects or reach out for collaborations.</i></p>
+<p align="center">System status: Online. Open to protocol handshakes for collaboration or deployment inquiries.</p>
